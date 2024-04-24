@@ -19,4 +19,4 @@ SELECT * FROM customer_details;
 
 
 -- 3. Create three users Alpha, Beta and Gama in MySQL Wokbench and assign below mentioned roles\privileges to these users.
--- SCREEMSHOT IS ATTACHED
+-- SCREENSHOT IS ATTACHED

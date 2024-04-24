@@ -44,7 +44,7 @@ CREATE TABLE address (
 #--Q5--
 
 USE sakila;
-INSERT INTO customer VALUE('1002','1','Manish','Kumar','Manishkvkumar01@gmail.com',10,'1','2001-03-28','2007-03-02');
+INSERT INTO customer VALUE('1002','1','Cen','Mubiru','mcen01@gmail.com',10,'1','2001-03-28','2007-03-02');
 SELECT * FROM customer;
 
 #--Q6--
